@@ -7,4 +7,6 @@ Router.get('/', (req, res)=>{
     res.send('Welcome to server');
 });
 
+
+
 export default Router;
